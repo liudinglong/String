@@ -1,2 +1,2 @@
 # String
-person implemetion of C++ string
+personal implemetion of C++ string
